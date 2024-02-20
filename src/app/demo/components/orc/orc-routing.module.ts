@@ -1,6 +1,5 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
-import { OrcComponent } from './orc.component';
 import { FirstComponent } from './first/first.component';
 import { SecondComponent } from './second/second.component';
 import { ThirdComponent } from './third/third.component';
